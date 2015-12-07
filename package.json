@@ -1,0 +1,16 @@
+{
+  "name": "flappy-heart",
+  "version": "0.1.0",
+  "description": "flappy heart is a cmd game",
+  "main": "index.js",
+  "bin": {
+    "fh": "index.js"
+  },
+  "keywords": [
+    "game",
+    "flappy",
+    "bird"
+  ],
+  "author": "lbbsteel@gmail.com",
+  "license": "ISC"
+}
