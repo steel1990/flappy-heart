@@ -12,5 +12,9 @@
     "bird"
   ],
   "author": "lbbsteel@gmail.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steel1990/flappy-heart.git"
+  },
   "license": "ISC"
 }
